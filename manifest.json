@@ -1,6 +1,6 @@
 {
     "name": "BergheimServerModpack",
-    "version_number": "1.48.0",
+    "version_number": "1.51.0",
     "website_url": "https://github.com/Cusatelli/Bergheim-Server-Modpack",
     "description": "Valheim Modpack required to play on Bergheim Servers.",
     "dependencies": [

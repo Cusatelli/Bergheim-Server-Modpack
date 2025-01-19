@@ -1,3 +1,12 @@
+## Version 1.51.0
+
+### Added:
+-	BepInEx\\plugins
+-	BepInEx\\config
+
+### Removed:
+-	BepInEx\\plugins
+
 ## Version 1.48.0
 
 ### Added:
@@ -51,6 +60,7 @@
 
 ## Version 1.0.0
 - Initial Upload
+
 
 
 
