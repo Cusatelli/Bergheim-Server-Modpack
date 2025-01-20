@@ -1,6 +1,6 @@
 {
     "name": "BergheimServerModpack",
-    "version_number": "1.48.0",
+    "version_number": "1.48.1",
     "website_url": "https://github.com/Cusatelli/Bergheim-Server-Modpack",
     "description": "Valheim Modpack required to play on Bergheim Servers.",
     "dependencies": [
@@ -47,7 +47,7 @@
 		"Smoothbrain-Tenacity-1.0.3",
 		"Smoothbrain-TimedItemDestruction-1.0.3",
 		"ValheimModding-HookGenPatcher-0.0.4",
-		"ValheimModding-Jotunn-2.23.0",
+		"ValheimModding-Jotunn-2.23.1",
 		"Valphi-BetterLaddersContinued-0.217.24",
 		"Vapok-AdventureBackpacks-1.7.9",
 		"VentureValheim-Warm_Torches-0.1.2"

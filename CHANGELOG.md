@@ -1,3 +1,8 @@
+## Version 1.48.1
+
+### Updated:
+-	ValheimModding-Jotunn-2.23.0 -> 2.23.1
+
 ## Version 1.48.0
 
 ### Added:
@@ -51,6 +56,7 @@
 
 ## Version 1.0.0
 - Initial Upload
+
 
 
 
