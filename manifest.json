@@ -1,13 +1,13 @@
 {
     "name": "BergheimServerModpack",
-    "version_number": "1.48.1",
+    "version_number": "1.48.2",
     "website_url": "https://github.com/Cusatelli/Bergheim-Server-Modpack",
     "description": "Valheim Modpack required to play on Bergheim Servers.",
     "dependencies": [
 		"Advize-PlantEasily-2.0.2",
 		"Azumatt-AzuClock-1.0.4",
 		"Azumatt-AzuCraftyBoxes-1.5.7",
-		"Azumatt-Official_BepInEx_ConfigurationManager-18.3.0",
+		"Azumatt-Official_BepInEx_ConfigurationManager-18.4.0",
 		"Azumatt-ResourceUnloadOptimizer-1.0.4",
 		"Azumatt-SaveCrossbowState-1.0.1",
 		"blacks7ar-AxeComboWhenChoppingTree-1.0.2",
