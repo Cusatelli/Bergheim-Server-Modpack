@@ -1,7 +1,7 @@
 ## Version 1.48.2
 
 ### Updated:
--	Azumatt-Official_BepInEx_ConfigurationManager-18.3.0 -> 8.4.0
+-	Azumatt-Official_BepInEx_ConfigurationManager-18.3.0 -> 18.4.0
 
 ## Version 1.48.1
 
