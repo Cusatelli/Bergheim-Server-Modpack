@@ -1,7 +1,15 @@
+## Version 1.53.2
+
+### Added:
+-	Advize-PlantEverything-1.18.2
+-	Bergheim-BergheimServerModpack-1.48.2
+-	Goldenrevolver-Proper_Spears_Forward_Facing_With_Thrust_Attacks-1.0.2
+-	MSchmoecker-MultiUserChest-0.6.0
+
 ## Version 1.48.2
 
 ### Updated:
--	Azumatt-Official_BepInEx_ConfigurationManager-18.3.0 -> 18.4.0
+-	Azumatt-Official_BepInEx_ConfigurationManager-18.3.0 -> 8.4.0
 
 ## Version 1.48.1
 
@@ -61,6 +69,7 @@
 
 ## Version 1.0.0
 - Initial Upload
+
 
 
 
