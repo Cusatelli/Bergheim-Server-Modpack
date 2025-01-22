@@ -1,9 +1,9 @@
 {
-    "name": "BergheimServerModpack",
-    "version_number": "1.53.2",
-    "website_url": "https://github.com/Cusatelli/Bergheim-Server-Modpack",
-    "description": "Valheim Modpack required to play on Bergheim Servers.",
-    "dependencies": [
+	"name": "BergheimServerModpack",
+	"version_number": "1.53.2",
+	"website_url": "https://github.com/Cusatelli/Bergheim-Server-Modpack",
+	"description": "Valheim Modpack required to play on Bergheim Servers.",
+	"dependencies": [
 		"Advize-PlantEasily-2.0.2",
 		"Advize-PlantEverything-1.18.2",
 		"Azumatt-AzuClock-1.0.4",
@@ -11,7 +11,6 @@
 		"Azumatt-Official_BepInEx_ConfigurationManager-18.4.0",
 		"Azumatt-ResourceUnloadOptimizer-1.0.4",
 		"Azumatt-SaveCrossbowState-1.0.1",
-		"Bergheim-BergheimServerModpack-1.48.2",
 		"blacks7ar-AxeComboWhenChoppingTree-1.0.2",
 		"blacks7ar-Hunting-1.3.8",
 		"blacks7ar-OdinsHares-1.2.8",
